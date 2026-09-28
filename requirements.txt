@@ -1,0 +1,9 @@
+pyPDF2
+streamlit
+python-dotenv
+langchain_text_splitters
+langchain_community
+langchain_huggingface
+langchain_classic
+langchain_ollama
+faiss
